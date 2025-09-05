@@ -1,7 +1,7 @@
 [
     {
-        "username": "1",
-        "password": "1",
-        "expiry": "2025-09-06T19:00:00Z"
+        "Username": "1",
+        "Password": "1",
+        "Expiry": "2025-09-06T19:00:00Z"
     }
 ]
